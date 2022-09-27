@@ -44,3 +44,4 @@ if(event.key == "Enter"){
 
 weather.fetchWeather("Covington");
 
+
